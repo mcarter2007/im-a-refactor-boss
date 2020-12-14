@@ -25,3 +25,4 @@ The above acceptenence criteria list shows an "x" at the end of each line. This 
 *I confirmed the <head> attributes made orderly sense
 
 *Finally, I confirmed all the links on the page are operating and the layout mimics the provided image in the challenge instructions
+
